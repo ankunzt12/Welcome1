@@ -110,7 +110,7 @@ Swal.fire(
   )
 }
 const ThanhDieu_List = [
-"https://files.catbox.moe/zuwsxa.mp3",
+"https://files.catbox.moe/j0g5dr.mp3",
   ];
   //Random music
   let index = Math.floor(Math.random() * ThanhDieu_List.length);
